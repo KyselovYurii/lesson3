@@ -1,4 +1,4 @@
-|   Method |     Mean |    Error |   StdDev |
-|--------- |---------:|---------:|---------:|
-|    Union | 130.0 ms | 2.572 ms | 4.437 ms |
-| UnionAll | 125.2 ms | 2.441 ms | 2.612 ms |
+|   Method |     Mean |    Error |   StdDev |   Median |
+|--------- |---------:|---------:|---------:|---------:|
+|    Union | 166.2 ms | 3.298 ms | 8.212 ms | 163.3 ms |
+| UnionAll | 163.6 ms | 3.198 ms | 5.073 ms | 161.9 ms |
